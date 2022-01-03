@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<game>
+  <users>
+    <usercounter>3</usercounter>
+    <user userid="0" userDepartment="3">
+      <username>אבוב מולכו</username>
+      <useremail>avivmolcho@gmail.com</useremail>
+      <caseID seconds="3" answeredCorrect="True">5</caseID>
+      <caseID seconds="3" answeredCorrect="True">6</caseID>
+      <caseID seconds="1" answeredCorrect="False">7</caseID>
+      <userImage>uploadedFiles%2f10_08_20_23_53_38.jpeg</userImage>
+    </user>
+    <user userid="1" userDepartment="1">
+      <username>שירה פיקר</username>
+      <useremail>shirapicker@walla.com</useremail>
+      <caseID seconds="5" answeredCorrect="True">5</caseID>
+      <caseID seconds="3" answeredCorrect="True">6</caseID>
+      <caseID seconds="6" answeredCorrect="True">2</caseID>
+      <caseID seconds="1" answeredCorrect="False">7</caseID>
+      <userImage>uploadedFiles%2f10_08_20_23_52_42.jpeg</userImage>
+    </user>
+    <user userid="2" userDepartment="2">
+      <username>%d7%94%d7%99%d7%9c%d7%94+%d7%a4%d7%99%d7%98%d7%9d</username>
+      <useremail>heelapitem%40gmail.com</useremail>
+      <caseID seconds="3" answeredCorrect="True">6</caseID>
+      <caseID seconds="1" answeredCorrect="False">7</caseID>
+      <caseID seconds="9" answeredCorrect="True">1</caseID>
+      <userImage>uploadedFiles%2f10_08_20_23_50_52.jpeg</userImage>
+      <caseID seconds="19" answeredCorrect="False">3</caseID>
+    </user>
+  </users>
+  <departments>
+    <department depID="0" depScore="1">מחלקה א</department>
+    <department depID="1" depScore="2">מחלקה ב</department>
+    <department depID="2" depScore="3">מחלקה ג</department>
+    <department depID="3" depScore="4">מחלקה ד</department>
+    <department depID="4" depScore="5">מחלקה ה</department>
+  </departments>
+  <caseSudies>
+    <caseCounter>18</caseCounter>
+    <case caseid="17" mdTestId="4" answer="true">
+      <caseName>%d7%94%d7%a8%d7%99%d7%95%d7%9f%2c+%d7%9b%d7%90%d7%91%d7%99+%d7%a8%d7%90%d7%a9%2c+%d7%a4%d7%95%d7%a8%d7%a4%d7%95%d7%a8%d7%94+%d7%a2%d7%95%d7%a8%d7%99%d7%aa+%d7%a2%d7%9c+%d7%92%d7%a4%d7%99%d7%99%d7%9d</caseName>
+      <answerExp />
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%aa+18%2c+%d7%94%d7%a8%d7%99%d7%95%d7%9f%2c+%d7%94%d7%aa%d7%a7%d7%91%d7%9c%d7%94+%d7%a2%d7%9d+%d7%9b%d7%90%d7%91%d7%99+%d7%a8%d7%90%d7%a9%2c+%d7%a4%d7%95%d7%a8%d7%a4%d7%95%d7%a8%d7%94+%d7%a2%d7%95%d7%a8%d7%99%d7%aa+%d7%a2%d7%9c+%d7%a4%d7%a0%d7%99+%d7%92%d7%a4%d7%99%d7%99%d7%9d+%d7%aa%d7%97%d7%aa%d7%95%d7%a0%d7%95%d7%aa</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%aa+%d7%aa%d7%a4%d7%a7%d7%95%d7%93%d7%99+%d7%a7%d7%a8%d7%99%d7%a9%d7%94+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa+%d7%91%d7%9e%d7%a7%d7%a8%d7%94+%d7%96%d7%94%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="16" mdTestId="4" answer="true">
+      <caseName>%d7%90%d7%a9%d7%a4%d7%95%d7%96+%d7%a2%d7%9d+%d7%aa%d7%9e%d7%95%d7%a0%d7%94+%d7%a9%d7%9c+%d7%a1%d7%a4%d7%a1%d7%99%d7%a1+%d7%a7%d7%a9%d7%94</caseName>
+      <answerExp />
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%9f+45%2c+%d7%9e%d7%93%d7%95%d7%9b%d7%90+%d7%97%d7%99%d7%a1%d7%95%d7%9f%2c+%d7%94%d7%aa%d7%90%d7%a9%d7%a4%d7%96+%d7%a2%d7%9d+%d7%aa%d7%9e%d7%95%d7%a0%d7%94+%d7%a9%d7%9c+%d7%a1%d7%a4%d7%a1%d7%99%d7%a1+%d7%a7%d7%a9%d7%94</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%aa+%d7%aa%d7%a4%d7%a7%d7%95%d7%93%d7%99+%d7%a7%d7%a8%d7%99%d7%a9%d7%94+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa+%d7%91%d7%9e%d7%a7%d7%a8%d7%94+%d7%96%d7%94%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="15" mdTestId="4" answer="true">
+      <caseName>%d7%a9%d7%aa%d7%99%d7%99%d7%aa+%d7%90%d7%9c%d7%9b%d7%95%d7%94%d7%95%d7%9c+%d7%9e%d7%95%d7%a4%d7%a8%d7%96%d7%aa+%d7%95%d7%a2%d7%9c%d7%99%d7%99%d7%94+%d7%91%d7%90%d7%a0%d7%96%d7%99%d7%9e%d7%99+%d7%9b%d7%91%d7%93</caseName>
+      <answerExp />
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%9f+22%2c+%d7%94%d7%aa%d7%a7%d7%91%d7%9c+%d7%a2%d7%9d+%d7%a9%d7%aa%d7%99%d7%99%d7%aa+%d7%90%d7%9c%d7%9b%d7%95%d7%94%d7%95%d7%9c+%d7%9e%d7%95%d7%a4%d7%a8%d7%96%d7%aa+%d7%95%d7%a2%d7%9c%d7%99%d7%99%d7%94+%d7%90%d7%a7%d7%95%d7%98%d7%99%d7%aa+%d7%91%d7%90%d7%a0%d7%96%d7%99%d7%9e%d7%99+%d7%9b%d7%91%d7%93</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%aa+%d7%aa%d7%a4%d7%a7%d7%95%d7%93%d7%99+%d7%a7%d7%a8%d7%99%d7%a9%d7%94+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa+%d7%91%d7%9e%d7%a7%d7%a8%d7%94+%d7%96%d7%94%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="14" mdTestId="3" answer="true">
+      <caseName>%d7%a6%d7%a4%d7%a6%d7%95%d7%a4%d7%99%d7%9d+%d7%95%d7%90%d7%a7%d7%a1%d7%a4%d7%99%d7%a8%d7%99%d7%95%d7%9d+%d7%9e%d7%95%d7%90%d7%a8%d7%9a+%d7%91%d7%94%d7%90%d7%96%d7%a0%d7%94+%d7%9c%d7%a8%d7%99%d7%90%d7%95%d7%aa</caseName>
+      <answerExp />
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%9f+55%2c+%d7%91%d7%a8%d7%a7%d7%a2+CHF%2c+%d7%94%d7%aa%d7%a7%d7%91%d7%9c+%d7%a2%d7%9d+%d7%a7%d7%95%d7%a6%d7%a8+%d7%a0%d7%a9%d7%99%d7%9e%d7%94%2c+%d7%a6%d7%a4%d7%a6%d7%95%d7%a4%d7%99%d7%9d+%d7%95%d7%90%d7%a7%d7%a1%d7%a4%d7%99%d7%a8%d7%99%d7%95%d7%9d+%d7%9e%d7%95%d7%90%d7%a8%d7%9a+%d7%91%d7%94%d7%90%d7%96%d7%a0%d7%94+%d7%9c%d7%a8%d7%99%d7%90%d7%95%d7%aa</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%a6%d7%99%d7%9c%d7%95%d7%9d+%d7%97%d7%96%d7%94+%d7%91%d7%90%d7%99%d7%9b%d7%95%d7%aa+%d7%9c%d7%90+%d7%98%d7%95%d7%91%d7%94+%d7%90%d7%9a+%d7%9c%d7%9c%d7%90+%d7%92%d7%95%d7%93%d7%a9+%d7%a8%d7%99%d7%90%d7%aa%d7%99+%d7%91%d7%a8%d7%95%d7%a8</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%aa+NTproBNP+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa+%d7%91%d7%9e%d7%a7%d7%a8%d7%94+%d7%96%d7%94%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="13" mdTestId="3" answer="false">
+      <caseName>%d7%91%d7%93%d7%99%d7%a7%d7%aa+%d7%93%d7%9d+%d7%97%d7%95%d7%96%d7%a8%d7%aa+%d7%9c-+NTproBNP+%d7%91%d7%99%d7%95%d7%9d+5+%d7%9c%d7%98%d7%99%d7%a4%d7%95%d7%9c</caseName>
+      <answerExp />
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%9f+70%2c+%d7%9e%d7%90%d7%95%d7%a9%d7%a4%d7%96+%d7%9c%d7%90%d7%95%d7%a8+%d7%aa%d7%9e%d7%95%d7%a0%d7%94+%d7%a9%d7%9c+%d7%90%d7%99+%d7%a1%d7%a4%d7%99%d7%a7%d7%aa+%d7%9c%d7%91+HFpEF</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%a0%d7%9c%d7%a7%d7%97%d7%94+%d7%91%d7%93%d7%99%d7%a7%d7%aa+NTproBNP+%d7%91%d7%a7%d7%91%d7%9c%d7%aa%d7%95+%d7%a9%d7%94%d7%93%d7%92%d7%99%d7%9e%d7%94+%d7%a2%d7%a8%d7%9a+%d7%92%d7%91%d7%95%d7%94+%d7%91%d7%a2%d7%a9%d7%a8%d7%95%d7%aa+%d7%90%d7%9c%d7%a4%d7%99%d7%9d</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%90%d7%97%d7%a8%d7%99+%d7%98%d7%99%d7%a4%d7%95%d7%9c+%d7%9e%d7%9e%d7%a9%d7%95%d7%9a+%d7%91%d7%9e%d7%a9%d7%aa%d7%a0%d7%99+%d7%9c%d7%95%d7%9c%d7%90%d7%94+%d7%9c%d7%95%d7%a8%d7%99%d7%93%2c+%d7%97%d7%9c+%d7%a9%d7%99%d7%a4%d7%95%d7%a8+%d7%a0%d7%99%d7%9b%d7%a8+%d7%91%d7%9e%d7%a6%d7%91%d7%95+%d7%94%d7%a7%d7%9c%d7%99%d7%a0%d7%99</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%99%d7%a9+%d7%9c%d7%a7%d7%97%d7%aa+%d7%91%d7%93%d7%99%d7%a7%d7%aa+%d7%93%d7%9d+%d7%97%d7%95%d7%96%d7%a8%d7%aa+%d7%9c-+NTproBNP+%d7%91%d7%99%d7%95%d7%9d+5+%d7%9c%d7%98%d7%99%d7%a4%d7%95%d7%9c+%d7%9e%d7%99%d7%98%d7%91%d7%99%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="12" mdTestId="3" answer="false">
+      <caseName />
+      <answerExp />
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%9f+80%2c+%d7%99%d7%93%d7%95%d7%a2+%d7%a2%d7%9c+%d7%90%d7%99+%d7%a1%d7%a4%d7%99%d7%a7%d7%aa+%d7%9c%d7%91+HFrEF%2c</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%aa%d7%a7%d7%91%d7%9c+%d7%a2%d7%9d+%d7%a7%d7%95%d7%a6%d7%a8+%d7%a0%d7%a9%d7%99%d7%9e%d7%94%2c+%d7%91%d7%a6%d7%a7%d7%95%d7%aa+%d7%91%d7%a8%d7%92%d7%9c%d7%99%d7%99%d7%9d+%d7%93%d7%95%22%d7%a5%2c+%d7%92%d7%95%d7%93%d7%a9+%d7%95%d7%a8%d7%99%d7%93%d7%99+%d7%a6%d7%95%d7%95%d7%90%d7%a8%2c+%d7%97%d7%a8%d7%97%d7%95%d7%a8%d7%99%d7%9d+%d7%9c%d7%97%d7%99%d7%9d+%d7%91%d7%91%d7%a1%d7%99%d7%a1%d7%99+%d7%94%d7%a8%d7%99%d7%90%d7%95%d7%aa</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%aa+NTproBNP+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="11" mdTestId="2" answer="true">
+      <caseName>Rheumatoid+Arthritis+</caseName>
+      <answerExp />
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%aa+40%2c+%d7%91%d7%a8%d7%a7%d7%a2+Rheumatoid+Arthritis+</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%9e%d7%aa%d7%99%d7%99%d7%a6%d7%92%d7%aa+%d7%a2%d7%9d+%d7%94%d7%97%d7%9e%d7%a8%d7%94+%d7%91%d7%9b%d7%90%d7%91%d7%99+%d7%a4%d7%a8%d7%a7%d7%99%d7%9d</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%aa+CRP+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="10" mdTestId="2" answer="true">
+      <caseName>%d7%a8%d7%a7%d7%a2+Crohn+Disease</caseName>
+      <answerExp />
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%9f+38%2c+%d7%91%d7%a8%d7%a7%d7%a2+Crohn+Disease</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%9e%d7%aa%d7%99%d7%99%d7%a6%d7%92+%d7%a2%d7%9d+%d7%a2%d7%9c%d7%99%d7%99%d7%94+%d7%91%d7%aa%d7%93%d7%99%d7%a8%d7%95%d7%aa+%d7%94%d7%a9%d7%9c%d7%a9%d7%95%d7%9c%d7%99%d7%9d+%d7%94%d7%9e%d7%99%d7%9e%d7%99%d7%99%d7%9d+%d7%94%d7%a7%d7%91%d7%95%d7%a2%d7%99%d7%9d</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%aa+CRP+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="9" mdTestId="2" answer="false">
+      <caseName>%d7%a6%d7%a8%d7%99%d7%91%d7%94+%d7%91%d7%9e%d7%aa%d7%9f+%d7%a9%d7%aa%d7%9f+%d7%95%d7%98%d7%99%d7%a4%d7%95%d7%9c+%d7%90%d7%a0%d7%98%d7%99%d7%91%d7%99%d7%95%d7%98%d7%99</caseName>
+      <answerExp />
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%aa+30%2c+%d7%9e%d7%aa%d7%99%d7%99%d7%a6%d7%92%d7%aa+%d7%a2%d7%9d+%d7%a6%d7%a8%d7%99%d7%91%d7%94+%d7%91%d7%9e%d7%aa%d7%9f+%d7%a9%d7%aa%d7%9f+%d7%95%d7%a0%d7%9e%d7%a6%d7%90%d7%aa+%d7%aa%d7%97%d7%aa+%d7%98%d7%99%d7%a4%d7%95%d7%9c+%d7%90%d7%a0%d7%98%d7%99%d7%91%d7%99%d7%95%d7%98%d7%99+%d7%a9%d7%94%d7%95%d7%97%d7%9c+%d7%9c%d7%a4%d7%a0%d7%99+3+%d7%99%d7%9e%d7%99%d7%9d+%d7%a2%22%d7%99+%d7%a8%d7%95%d7%a4%d7%90+%d7%9e%d7%a9%d7%a4%d7%97%d7%94</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%aa+CRP+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="8" mdTestId="2" answer="true">
+      <caseName />
+      <answerExp />
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%9f+54%2c+%d7%a9%d7%9e%d7%aa%d7%99%d7%99%d7%a6%d7%92+%d7%a2%d7%9d+%d7%9b%d7%90%d7%91%d7%99+%d7%92%d7%91%2c+%d7%90%d7%97%d7%a8%d7%99+3+%d7%a9%d7%91%d7%95%d7%a2%d7%95%d7%aa+%d7%9e%d7%a0%d7%99%d7%aa%d7%95%d7%97+%d7%90%d7%95%d7%a8%d7%aa%d7%95%d7%a4%d7%93%d7%99+%d7%91%d7%90%d7%95%d7%aa%d7%95+%d7%90%d7%96%d7%95%d7%a8+%d7%92%d7%91%d7%99</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%aa+CRP+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="7" mdTestId="2" answer="false">
+      <caseName>%d7%97%d7%95%d7%9d+%d7%95%d7%a9%d7%99%d7%a2%d7%95%d7%9c+%d7%9c%d7%99%d7%97%d7%aa%d7%99+%d7%97%d7%93%d7%a9</caseName>
+      <answerExp />
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%9f+28%2c+%d7%91%d7%a8%d7%99%d7%90+%d7%91%d7%93%22%d7%9b%2c+%d7%9e%d7%aa%d7%99%d7%99%d7%a6%d7%92+%d7%a2%d7%9d+%d7%97%d7%95%d7%9d+%d7%95%d7%a9%d7%99%d7%a2%d7%95%d7%9c+%d7%9c%d7%99%d7%97%d7%aa%d7%99+%d7%97%d7%93%d7%a9</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%aa+CRP+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="6" mdTestId="1" answer="false">
+      <caseName />
+      <answerExp>%d7%90%d7%99%d7%9f+%d7%9c%d7%91%d7%a6%d7%a2+%d7%90%d7%aa+%d7%94%d7%91%d7%93%d7%99%d7%a7%d7%94+%d7%91%d7%9e%d7%a7%d7%a8%d7%94+%d7%95%d7%a0%d7%a2%d7%a9%d7%aa%d7%94+%d7%90%d7%91%d7%97%d7%a0%d7%94+%d7%a8%d7%a0%d7%98%d7%92%d7%a0%d7%99%d7%aa+%d7%a9%d7%9c+%d7%93%d7%9c%d7%a7%d7%aa+%d7%a8%d7%99%d7%90%d7%95%d7%aa.</answerExp>
+      <patientDetails>
+        <title />
+        <content>%d7%97%d7%95%d7%9c%d7%94+%d7%a2%d7%9d+%d7%93%d7%9c%d7%a7%d7%aa+%d7%a8%d7%99%d7%90%d7%95%d7%aa+%d7%a8%d7%a0%d7%98%d7%92%d7%a0%d7%99%d7%aa</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%94+%d7%9c%d7%a9%d7%a4%d7%a2%d7%aa+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa+%d7%91%d7%9e%d7%a7%d7%a8%d7%94+%d7%96%d7%94%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="4" mdTestId="1" answer="false">
+      <caseName>%d7%9e%d7%97%d7%9c%d7%aa+%d7%97%d7%95%d7%9d+%d7%95%d7%aa%d7%a1%d7%9e%d7%99%d7%a0%d7%99%d7%9d+%d7%a0%d7%a9%d7%99%d7%9e%d7%aa%d7%99%d7%99%d7%9d+%d7%a9%d7%9c+%d7%99%d7%95%d7%9e%d7%99%d7%99%d7%9d</caseName>
+      <answerExp>%d7%99%d7%a9+%d7%9c%d7%91%d7%a6%d7%a2+%d7%90%d7%aa+%d7%94%d7%91%d7%93%d7%99%d7%a7%d7%94+%d7%a8%d7%a7+%d7%91%d7%9e%d7%90%d7%95%d7%a9%d7%a4%d7%96%d7%99%d7%9d+%d7%a2%d7%9d+%d7%9e%d7%97%d7%9c%d7%aa+%d7%97%d7%95%d7%9d+%d7%95%d7%aa%d7%a1%d7%9e%d7%99%d7%a0%d7%99%d7%9d+%d7%a0%d7%a9%d7%99%d7%9e%d7%aa%d7%99%d7%99%d7%9d+%d7%a9%d7%9e%d7%a9%d7%9b%d7%9d+%d7%9c%d7%90+%d7%a2%d7%95%d7%9c%d7%94+%d7%a2%d7%9c+5+%d7%99%d7%9e%d7%99%d7%9d.</answerExp>
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%9f+40%2c+%d7%a8%d7%96%d7%94%2c+%d7%91%d7%a8%d7%99%d7%90+%d7%91%d7%93%22%d7%9b%2c+%d7%a2%d7%9d+%d7%9e%d7%97%d7%9c%d7%aa+%d7%97%d7%95%d7%9d+%d7%95%d7%aa%d7%a1%d7%9e%d7%99%d7%a0%d7%99%d7%9d+%d7%a0%d7%a9%d7%99%d7%9e%d7%aa%d7%99%d7%99%d7%9d+%d7%a9%d7%9c+%d7%99%d7%95%d7%9e%d7%99%d7%99%d7%9d</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%94+%d7%9c%d7%a9%d7%a4%d7%a2%d7%aa+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="3" mdTestId="1" answer="true">
+      <caseName>%d7%94%d7%a8%d7%99%d7%95%d7%9f%2c+%d7%9e%d7%90%d7%95%d7%a9%d7%a4%d7%96%d7%aa+%d7%a2%d7%9d+%d7%a9%d7%99%d7%a2%d7%95%d7%9c+%d7%95%d7%9e%d7%97%d7%9c%d7%aa+%d7%97%d7%95%d7%9d+</caseName>
+      <answerExp>%d7%99%d7%a9+%d7%9c%d7%91%d7%a6%d7%a2+%d7%90%d7%aa+%d7%94%d7%91%d7%93%d7%99%d7%a7%d7%94+%d7%91%d7%a0%d7%a9%d7%99%d7%9d+%d7%91%d7%94%d7%a8%d7%99%d7%95%d7%9f+%d7%90%d7%95+%d7%a2%d7%93+%d7%a9%d7%91%d7%95%d7%a2%d7%99%d7%99%d7%9d+%d7%9c%d7%90%d7%97%d7%a8+%d7%9c%d7%99%d7%93%d7%94+(%d7%a2%d7%9d+%d7%aa%d7%9e%d7%95%d7%a0%d7%94+%d7%a7%d7%9c%d7%99%d7%a0%d7%99%d7%aa+%d7%9e%d7%aa%d7%90%d7%99%d7%9e%d7%94)+%d7%92%d7%9d+%d7%9b%d7%90%d7%a9%d7%a8+%d7%94%d7%9f+%d7%91%d7%a8%d7%99%d7%90%d7%95%d7%aa.</answerExp>
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%aa+35%2c+%d7%91%d7%94%d7%a8%d7%99%d7%95%d7%9f%2c+%d7%9e%d7%90%d7%95%d7%a9%d7%a4%d7%96%d7%aa+%d7%a2%d7%9d+%d7%a9%d7%99%d7%a2%d7%95%d7%9c+%d7%95%d7%9e%d7%97%d7%9c%d7%aa+%d7%97%d7%95%d7%9d+%d7%a9%d7%9c+3+%d7%99%d7%9e%d7%99%d7%9d</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%94+%d7%9c%d7%a9%d7%a4%d7%a2%d7%aa+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="2" mdTestId="1" answer="true">
+      <caseName />
+      <answerExp>%d7%99%d7%a9+%d7%9c%d7%91%d7%a6%d7%a2+%d7%91%d7%93%d7%99%d7%a7%d7%94+%d7%a8%d7%a7+%d7%9c%d7%9e%d7%98%d7%95%d7%a4%d7%9c%d7%99%d7%9d+%d7%a2%d7%9d+%d7%a8%d7%a7%d7%a2+%d7%a9%d7%9c+%d7%93%d7%99%d7%9b%d7%95%d7%99+%d7%97%d7%99%d7%a1%d7%95%d7%a0%d7%99+%d7%a9%d7%9e%d7%a6%d7%99%d7%92%d7%99%d7%9d+%d7%90%d7%aa+%d7%94%d7%aa%d7%9e%d7%95%d7%a0%d7%94+%d7%94%d7%a7%d7%9c%d7%99%d7%a0%d7%99%d7%aa+%d7%94%d7%9e%d7%aa%d7%95%d7%90%d7%a8%d7%aa.</answerExp>
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%9f+50%2c+%d7%9e%d7%93%d7%95%d7%9b%d7%90+%d7%97%d7%99%d7%a1%d7%95%d7%9f%2c+%d7%9e%d7%90%d7%95%d7%a9%d7%a4%d7%96+%d7%a2%d7%9d+%d7%a7%d7%9c%d7%99%d7%a0%d7%99%d7%a7%d7%94+%d7%a0%d7%a9%d7%99%d7%9e%d7%aa%d7%99%d7%aa+%d7%95%d7%9e%d7%97%d7%9c%d7%aa+%d7%97%d7%95%d7%9d+%d7%9e%d7%a2%d7%9c+%d7%a9%d7%91%d7%95%d7%a2%d7%99%d7%99%d7%9d</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%94+%d7%9c%d7%a9%d7%a4%d7%a2%d7%aa+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa%3f</content>
+      </patientDetails>
+    </case>
+    <case caseid="1" mdTestId="1" answer="false">
+      <caseName />
+      <answerExp />
+      <patientDetails>
+        <title />
+        <content>%d7%91%d7%9f+70%2c+%d7%a4%d7%a0%d7%94+%d7%91-+11.2019%2c+%d7%91%d7%a8%d7%a7%d7%a2+%d7%99%d7%aa%d7%a8+%d7%9c%d7%97%d7%a5+%d7%93%d7%9d+%d7%95%d7%a1%d7%9b%d7%a8%d7%aa</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%9e%d7%90%d7%95%d7%a9%d7%a4%d7%96+%d7%a2%d7%9d+%d7%9e%d7%97%d7%9c%d7%aa+%d7%97%d7%95%d7%9d+%d7%95%d7%aa%d7%a1%d7%9e%d7%99%d7%a0%d7%99%d7%9d+%d7%a0%d7%a9%d7%99%d7%9e%d7%aa%d7%99%d7%99%d7%9d+%d7%9e%d7%a2%d7%9c+%d7%a9%d7%91%d7%95%d7%a2%d7%99%d7%99%d7%9d</content>
+      </patientDetails>
+      <patientDetails>
+        <title />
+        <content>%d7%94%d7%90%d7%9d+%d7%91%d7%93%d7%99%d7%a7%d7%94+%d7%9c%d7%a9%d7%a4%d7%a2%d7%aa+%d7%97%d7%99%d7%95%d7%a0%d7%99%d7%aa%3f</content>
+      </patientDetails>
+    </case>
+  </caseSudies>
+  <medicalTests>
+    <testsCounter>5</testsCounter>
+    <mdTest mdTestId="4">%d7%91%d7%93%d7%99%d7%a7%d7%aa+%d7%aa%d7%a4%d7%a7%d7%95%d7%93%d7%99+%d7%a7%d7%a8%d7%99%d7%a9%d7%94</mdTest>
+    <mdTest mdTestId="3">%d7%91%d7%93%d7%99%d7%a7%d7%aa+NTproBNP</mdTest>
+    <mdTest mdTestId="2">%d7%91%d7%93%d7%99%d7%a7%d7%aa+CRP</mdTest>
+    <mdTest mdTestId="1">%d7%91%d7%93%d7%99%d7%a7%d7%94+%d7%9c%d7%a9%d7%a4%d7%a2%d7%aa</mdTest>
+  </medicalTests>
+</game>
